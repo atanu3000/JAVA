@@ -6,10 +6,10 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         int r ;
         double pi = 3.142, area;
-        system.out.println("Radius of a circle");
+        System.out.println("Radius of a circle");
        
        r = 5;
        area = pi*r*r;
-       system.out.println(area);
+       System.out.println(area);
     }
 }
